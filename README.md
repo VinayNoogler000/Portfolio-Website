@@ -76,7 +76,7 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 ## Feedback
 
-I am always looking to improve my skills. If you have any feedback or suggestions, please open an issue or contact me directly at email@example.com.
+I am always looking to improve my skills. If you have any feedback or suggestions, please open an issue or contact me directly at vinaytambey000@gmail.com.
 
 
 ## License
