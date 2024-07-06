@@ -81,7 +81,7 @@ I am always looking to improve my skills. If you have any feedback or suggestion
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VinayNoogler000/Portfolio-Website/blob/main/LICENSE.txt) file for details.
 
 
 _Thank you for checking out my portfolio website! If you enjoyed it, please consider giving it a star on GitHub and sharing it with others -Vinay Tambey._
