@@ -51,7 +51,7 @@ Welcome to the repository for my personal portfolio website! This project showca
 
 ## Demo
 
-Check out the live demo of the website [here](#). <!-- Add the link to the deployed website here -->
+Check out the live demo of the website [here](https://vinay-tambey-portfolio.vercel.app/).
 
 
 ## Installation
